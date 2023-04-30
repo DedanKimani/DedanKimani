@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Dedan Kimani</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.5083e0a2a7dcaae07c142e8b87036a27?rik=bEMEJ41n0UyDsA&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedankimani&label=Profile%20views&color=0e75b6&style=flat" alt="dedankimani" /> </p>
@@ -17,6 +17,8 @@
 - 💬 Ask me about **Designs and Layouts**
 
 - 📫 How to reach me **dedankimani007@gmail.com**
+
+- ⚡ Fun fact **I play basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
